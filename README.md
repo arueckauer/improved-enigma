@@ -1,3 +1,3 @@
 # improved-enigma
 
-With pull request template.
+With improved pull request template.
