@@ -1,41 +1,47 @@
-## Beschreibung
+<!-- Goal: First-time-right™ PRs to minimize iterations -->
 
-<!-- Kurz und prägnant den Zweck des PR beschreiben -->
+## Description
 
-## Testing-Instruktionen
+<!-- Briefly describe the purpose of this PR -->
 
-- [ ] **Testing-Instruktionen:**
-  <!-- Beschreibe hier, wie die Änderungen getestet werden sollen (ggf. Ausnahme: Doc Changes) -->
-- [ ] **Geprüfte Muster:**
-  <!-- Liste hier auf, was vom Autor getestet oder berücksichtigt wurde -->
+## Task Reference
 
-## Aufgabenbezug
+[Basecamp Task](Link to Basecamp Task)
+<!-- Add the link to the relevant Basecamp task -->
 
-- [ ] **Link zur Basecamp-Aufgabe:**
-  <!-- Füge den Link zu der relevanten Basecamp-Aufgabe ein -->
-- [ ] **Screenshots (wenn möglich):**
-  <!-- Füge hier Screenshots ein, falls relevant -->
+### Screenshots
 
-## Reviewer-Checkliste
+<!-- Include screenshots if relevant -->
 
-- [ ] Self-review durchgeführt
-- [ ] Dead Code entfernt
-- [ ] Tests geschrieben
-- [ ] Auf Typos geprüft
-- [ ] Check grün
+## Testing Instructions
+
+<!-- Describe how the changes should be tested (exception: Doc Changes) -->
+- [ ] Testing Instructions 1
+- [ ] Testing Instructions 2
+
+### Tested Scenarios by author
+
+<!-- List what has been tested or considered by the author -->
+- Scenario 1
+- Scenario 2
+
+## Reviewer Checklist (production-ready)
+
+<!-- If a full review is not desired, add a comment to skip the review -->
+
+- [ ] Self-review completed
+- [ ] Dead code removed
+- [ ] Tests written
+- [ ] Checked for typos
+- [ ] Check is green
 - [ ] Production-ready
 
-### Ziel: First-time-right™
+## Re-review Instructions (if applicable)
 
-> Dieser PR sollte so gestaltet sein, dass möglichst wenige Iterationen notwendig sind.
+<!-- To make iterations of PRs convenient for the reviewer, provide a summary of changes together with the first “new” commit -->
 
-## Re-review-Anweisungen (falls zutreffend)
+Summary of changes (starting with [(SHA)](Link to Commit)) <!-- Add the SHA and URL of the first new commit here -->
 
-- [ ] **Erster neuer Commit (SHA):**
-  <!-- Füge hier den SHA des ersten neuen Commits ein -->
-- [ ] **Änderungsübersicht:**
-  <!-- Liste hier eine detaillierte Beschreibung der Änderungen bei einem Re-review auf -->
-
-## Kurzbeschreibung der Änderungen
-
-<!-- Fasse die Änderungen in wenigen Punkten zusammen -->
+<!-- Provide a detailed summary of changes for a re-review -->
+- Change 1
+- Change 2
